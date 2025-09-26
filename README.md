@@ -128,3 +128,6 @@ Mobil Uygulama Entegrasyonu: Kullanıcılar telefonlarından ürün fotoğraflar
 Otomatik Veri Toplama: Web scraping veya API’ler kullanılarak veri seti dinamik olarak güncellenebilir.
 
 Etik ve Güvenlik Kontrolü: Modelin hatalı sınıflandırma durumlarını ve yanlış pozitif/negatifleri analiz ederek güvenli kullanım stratejisi geliştirmek.
+
+# Kaggle Link
+https://www.kaggle.com/code/yamurnder/akbankbootcamp3-son
